@@ -31,7 +31,7 @@ Telefoon: ${data.get("phone")}
   mailto.searchParams.set("subject", "Samenwerken met Scentoza");
   mailto.searchParams.set("body", message);
 
-  // Dit opent het standaard mailprogramma van de gebruiker met een
+  // Dit opent het standaard mailprogramma vaan de gebruiker met een
   // volledig ingevulde e-mail naar bram én haris.
   window.location.href = mailto.toString();
 });

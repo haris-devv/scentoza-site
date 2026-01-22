@@ -527,7 +527,7 @@ input::placeholder {
     padding: 20px;
   }
 
-  /* Gallery blijft 3 kolommen, alleen gap kleiner */
+  /* Gallery blijft 3 koloommen, alleen gap kleiner */
   .gallery-grid {
     gap: 12px;
   }
